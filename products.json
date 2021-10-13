@@ -1,0 +1,115 @@
+{
+    "pagination": {
+        "total": "12"
+    },
+    "data": [
+        {
+            "_id": "tshirts0001",
+            "title": "Audeze LCD Grill T-Shirt",
+            "price": "24.00",
+            "price_id": "price_1Jk0ozHQb3wfH64vEWt6nCla",
+            "company": "Audeze",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_Grill_0_1200x.jpg",
+            "details": "If you know anything about Audeze, it’s that we pride ourselves on delivering the purest audio experience from our uniquely designed headphones. The first headphone that we created was our LCD-2, which was our muse for this sleek design. Introducing the grey, iconic Audeze “grill” t-shirt featuring our authentic, unparalleled, distinguished, glorious LCD grill!"
+        },
+        {
+            "_id": "tshirts0002",
+            "title": "Single Line A Pattern T-shirt with Audeze Logo",
+            "price": "25.00",
+            "price_id": "price_1Jk0qrHQb3wfH64vH6WI2Mzd",
+            "company": "Audeze",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_SingleLine_1_1200x.jpg",
+            "details": "We at Audeze have a commitment to uncompromised audio that is reflected in every facet of our handcrafted products. Our sound is stunningly dynamic with an engaging and lifelike quality that effortlessly transports the listener into a new world of music. If you appreciate our hard work and have a love for sound that only we can provide, then show your loyalty with this t-shirt that represents Audeze’s journey through sound. This t-shirt features a beautiful, repeating pattern of Audeze “A’s” that ends with our beloved logo. The journey is far from over!"
+        },
+        {
+            "_id": "tshirts0003",
+            "title": "Audeze Retro Design T-Shirt - White Print",
+            "price": "22.00",
+            "price_id": "price_1Jk0s2HQb3wfH64vLWbJ9gNi",
+            "company": "Audeze lite",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_Vintage_White_1_1200x.jpg",
+            "details": "This bold, retro design was originated by a talented graphic artist that entered our design contest back when our company first started over 10 years ago. Even after all these years, we still love the 70’s inspired design, featuring our signature LCD grill and original audio cables."
+        },
+        {
+            "_id": "tshirts0004",
+            "title": "Audeze Triple Line A Pattern T-Shirt",
+            "price": "20.00",
+            "price_id": "price_1Jk0tAHQb3wfH64vv6494D2N",
+            "company": "Audeze",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_TripleLine_0_1200x.jpg",
+            "details": "The finest details in music often have the most impact. This stylish, repeating Audeze “A” represents the exquisite movement and variation of every musical composition. This design represents our journey through audio, building upon our history and always striving to innovate. Like any individual Audeze “A” in this t-shirt’s pattern, you are an integral part of our entire journey. The T-shirt design culminates with a subtly printed salute to Audeze across the right sleeve."
+        },
+        {
+            "_id": "tshirts0005",
+            "title": "Audeze Mobius Big O T-Shirt",
+            "price": "30.00",
+            "price_id": "price_1Jk0uIHQb3wfH64vAhrOFYRG",
+            "company": "Audeze lite",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_MobiusO_0_1200x.jpg",
+            "details": "Mobius takes steps forward that no other headphone has achieved and you’re along for the ride. This t-shirt represents your journey. As a traveler, you will experience aspects of your audio you’ve never heard before. The planet depicted is not your final destination, but a stop among many on a continuing odyssey. As printed on the back of this T-shirt, “May your adventures be infinite and your imagination never ending.”"
+        },
+        {
+            "_id": "tshirts0006",
+            "title": "Audeze Retro Design T-Shirt - Grey Print",
+            "price": "28.00",
+            "price_id": "price_1Jk0vAHQb3wfH64vTDCZn076",
+            "company": "Audeze lite",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_Front_Vintage_Dark_0_1200x.jpg",
+            "details": "This retro design was originated by a talented graphic artist that entered our design contest back when our company first started over 10 years ago. Even after all these years, we still love the 70’s inspired design, featuring our signature LCD grill and original audio cables. The grey-on-black style of this t-shirt creates a subtle, smooth version of the original design."
+        },
+        {
+            "_id": "tshirts0007",
+            "title": "Audeze Mobius Logo T-Shirt",
+            "price": "24.00",
+            "price_id": "price_1Jk0wYHQb3wfH64vQcfv61vx",
+            "company": "Audeze",
+            "avatar": "https://cdn.shopify.com/s/files/1/3013/1908/products/Audeze_TShirt_AudezeMobius_Logo_0_1200x.jpg",
+            "details": "Whether you are Team Blue or Team Copper, you are Team Mobius. As a member of Team Mobius, you’re ready to conquer all challenges and explore the furthest reaches of audio. With this simple yet tasteful design, this t-shirt features the Audeze Mobius logo on the front and the signature Mobius “O” travel icon on the back."
+        },
+        {
+            "_id": "tshirts0008",
+            "title": "Regular Fit Stag T-Shirt",
+            "price": "15.00",
+            "price_id": "price_1Jk0yKHQb3wfH64vNCXbt6x6",
+            "company": "feefo @ next",
+            "avatar": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/187927s.jpg",
+            "details": "Give your wardrobe staples a refresh with our elevated everyday t-shirt. Made from pure cotton that is soft and breathable, it's cut with a round neckline and finished with our signature stag embroidery at the chest."
+        },
+        {
+            "_id": "tshirts0009",
+            "title": "Graphic T-Shirt",
+            "price": "25.00",
+            "price_id": "price_1Jk0yKHQb3wfH64vNCXbt6x6",
+            "company": "feefo @ next",
+            "avatar": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G27/shotview-315x472/3330/262-344s.jpg",
+            "details": "Excellent to have a tall choice of tees for a person over 6'3. Nice t-shirt, good lenght"
+        },
+        {
+            "_id": "tshirts0010",
+            "title": "TV And Film Licence T-Shirt",
+            "price": "26.00",
+            "price_id": "price_1Jk0zEHQb3wfH64v2rm4HT4i",
+            "company": "feefo @ next",
+            "avatar": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G86/shotview-315x472/2105/159-555s.jpg",
+            "details": "Update your casual collection with this licence T-shirt, available in an arrange of designs from TV and Film favourites. 100% Cotton."
+        },
+        {
+            "_id": "tshirts0011",
+            "title": "Converse Camo Fill Logo T-Shirt",
+            "price": "31.00",
+            "price_id": "price_1Jk0zwHQb3wfH64vY4EdaMMX",
+            "company": "feefo @ next",
+            "avatar": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/946539s.jpg",
+            "details": "Update your casual collection with this licence T-shirt, available in an arrange of designs from TV and Film favourites. 100% Cotton"
+        },
+        {
+            "_id": "tshirts0012",
+            "title": "adidas Squadra 21 T-Shirt",
+            "price": "30.00",
+            "price_id": "price_1Jk11yHQb3wfH64vAEgCMXhh",
+            "company": "adidas",
+            "avatar": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/225512s.jpg",
+            "details": "On the pitch, it's you and your team against the world. So adidas created the Squadra 21 range to help you win in style. This football jersey is made from durable recycled polyester and features moisture-absorbing AEROREADY to keep. The clean design makes it easy to add team details and squad numbers. This product is made with Primegreen, a series of high-performance recycled materials."
+        }
+    ]
+}
